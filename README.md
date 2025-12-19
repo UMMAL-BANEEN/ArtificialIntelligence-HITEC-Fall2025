@@ -137,4 +137,6 @@ All work must be your **own**. Copying code or reports from classmates or online
 > ✨ **Happy Coding & Learning!**  
 > — Instructor: Mr. Mubasher Iqbal  
 > **Artificial Intelligence | HITEC University – Fall 2025**
-```
+---
+
+
